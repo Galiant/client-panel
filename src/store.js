@@ -6,6 +6,8 @@ import { reduxFirestore, firestoreReducer } from 'redux-firestore';
 // Reducers
 // Todo
 
+// react-redux-firebase implementation https://github.com/prescottprue/react-redux-firebase
+
 const firebaseConfig = {
   apiKey: 'AIzaSyBCCrRq_gDVcmYyCH60MTQyZreNUAVgE0I',
   authDomain: 'react-client-panel-b2039.firebaseapp.com',
